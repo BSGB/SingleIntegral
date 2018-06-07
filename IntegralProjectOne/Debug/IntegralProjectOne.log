@@ -1,0 +1,5 @@
+﻿  IntegralProjectOne.cpp
+c1xx : warning C4199: dwufazowe wyszukiwanie nazw nie jest obsługiwane w trybie C++/CLI, C++/CX ani OpenMP, użyj wartości /Zc:twoPhase-
+c:\users\bartosz\desktop\integralprojectone\integralprojectone\integralprojectone.cpp(14): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+c:\users\bartosz\desktop\integralprojectone\integralprojectone\integralprojectone.cpp(33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  IntegralProjectOne.vcxproj -> C:\Users\Bartosz\Desktop\IntegralProjectOne\Debug\IntegralProjectOne.exe
